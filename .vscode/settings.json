@@ -4,5 +4,8 @@
     "code-runner.runInTerminal": true,
     "code-runner.terminalRoot": "/",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
 }
